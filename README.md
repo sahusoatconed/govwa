@@ -24,7 +24,7 @@ go mod download
 
 #### GoVWA config
 ---
-Modified the config.json file for database configuration
+Modified the config.json file for database configuration.
 
 ```
 {
